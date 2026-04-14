@@ -33,7 +33,7 @@ int main(void)
 				finalsum += score[i][j];
 			}
 		}
-		// 각 행 출력 후 puts(""); 으로 줄바꿈하세요
+		
 		puts("");
 	}
 
